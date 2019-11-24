@@ -6,8 +6,8 @@ using namespace boost;
 
 
 //
-// Created by Fanzhe on 5/28/2017.
-// Rewritten under window`s Socket by Artemned on 01/09/19
+// 
+// 
 //
 
 
